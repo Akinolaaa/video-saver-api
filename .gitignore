@@ -1,0 +1,6 @@
+.env
+package-lock.json
+/public
+.hintrc
+node_modules
+.vscode
